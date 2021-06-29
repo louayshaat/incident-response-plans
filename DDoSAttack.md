@@ -1,4 +1,4 @@
-# Incident Response Run-book Template
+# Web Application Dos/DDoS Attack
 
 ### Incident Type
 
