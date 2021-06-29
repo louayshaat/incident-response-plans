@@ -1,4 +1,4 @@
-# Incident Response Run-book Template
+# Credential Leakage/Compromise
 
 ### Incident Type
 
