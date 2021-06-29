@@ -18,3 +18,9 @@ Each runbook corresponds to a unique incident and there are 5 parts to handling 
 It is not sufficient to customize these scenarios to the need of your customers, organization or applications. It is important that these runbook scenarios are tested (for example, in Game Days) prior to deployment to your knowledge management system and that all responders are familiar with the actions required to respond to an incident.
 
 Note that some of the incident response steps noted in each scenario may incur costs in your AWS account(s) for services used in either preparing for, or responding to incidents. Customizing these scenarios and testing them will help you to determine if additional costs will be incurred. You can use AWS Cost Explorer and look at costs incurred over a particular time frame (such as when running Game Days) to establish what the possible impact might be.
+
+## Sample run books
+
+- [Web Application Dos/DDoS Attack](samples/DDoSAttack.md)
+- [Unintended access to an S3 Bucket](samples/s3-unintendedaccess.md)
+- [Credential Leakage/Compromise](samples/cred-leakage.md)
