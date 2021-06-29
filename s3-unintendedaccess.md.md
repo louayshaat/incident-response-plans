@@ -1,4 +1,4 @@
-# Incident Response Run-book Template
+# Unintended access to an S3 Bucket
 
 ### Incident Type
 
